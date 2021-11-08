@@ -7,7 +7,7 @@ Vitae proin ,Adopt,Platforms,TRUE,bar
 Leo vel fringilla ,Assess,Platforms,FALSE,blah
 In cursus turpis massa ,Hold,Platforms,TRUE,baz
 Lorem ipsum dolor,Trial,Platforms,TRUE,blah
-Four key metrics,Adopt,Techniques,FALSE,"<p>To measure software delivery performance, more and more organizations are turning to the <strong>four key metrics</strong> as defined by the <a href=""https://www.devops-research.com/"">DORA research</a> program: change lead time, deployment frequency, mean time to restore (MTTR) and change fail percentage. """
+Four key metrics,Adopt,Techniques,FALSE,"To measure software delivery performance, more and more organizations are turning to the <strong>four key metrics</strong> as defined by the <a href=""https://www.devops-research.com/"">DORA research</a> program: change lead time, deployment frequency, mean time to restore (MTTR) and change fail percentage."
 Lightweight architectural decision records,Adopt,Techniques,FALSE,"Much documentation can be replaced with highly readable code and tests. In a world of evolutionary architecture, however, it's important to record certain design decisions for the benefit of future team members as well as for external oversight. Lightweight Architecture Decision Records is a technique for capturing important architectural decisions along with their context and consequences. We recommend storing these details in source control, instead of a wiki or website, as then they can provide a record that remains in sync with the code itself. For most projects, we see no reason why you wouldn't want to use this technique."
 Leo vel fringilla ,Assess,Techniques,FALSE,blah
 In cursus turpis massa ,Hold,Techniques,TRUE,baz
