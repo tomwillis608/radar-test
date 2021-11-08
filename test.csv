@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Four key metrics,Adopt,Techniques,FALSE,"<p>To measure software delivery performance, more and more organizations are turning to the <strong>four key metrics</strong> as defined by the <a href=""https://www.devops-research.com/"">DORA research</a> program: change lead time, deployment frequency, mean time to restore (MTTR) and change fail percentage. This research and its statistical analysis have shown a clear link between high delivery performance and these metrics; they provide a great leading indicator for how a team, or even a whole delivery organization, is doing.</p>
+Four key metrics,Adopt,Techniques,FALSE,"<p>To measure software delivery performance, more and more organizations are turning to the <strong>four key metrics</strong> as defined by the <a href=""https://www.devops-research.com/"">DORA research</a> program: change lead time, deployment frequency, mean time to restore (MTTR) and change fail percentage. This research and its statistical analysis have shown a clear link between high delivery performance and these metrics; they provide a great leading indicator for how a team, or even a whole delivery organization, is doing.</p>"
 Lorem ipsum dolor,Trial,Techniques,TRUE,blah
 Leo vel fringilla ,Assess,Techniques,FALSE,blah
 In cursus turpis massa ,Hold,Techniques,TRUE,baz
